@@ -22,7 +22,7 @@ links:
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#1a7a6d"      # theme color for links and buttons
+accent_color: "#592c88"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Academic webpage of Dr. Emily Winkelman"
 baseurl: ""
@@ -38,12 +38,12 @@ analytics:
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
+  # - name: talks
   - name: research
-  - name: software
+  # - name: software
   - name: team
   - name: teaching
-  - name: blogs
+  # - name: blogs
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
